@@ -1,6 +1,1 @@
-results/
-**/*.ipynb_checkpoints/
-
-LD50_QSAR_MODEL/models/Base_models/*.pkl
-LD50_QSAR_MODEL/models/Hierarchical_models/*.pkl
 
